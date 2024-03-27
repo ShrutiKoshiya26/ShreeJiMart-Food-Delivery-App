@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#FE724C</color>
+    <color name="colorPrimaryDark">#858992</color>
+    <color name="colorAccent">#323643</color>
+    <color name="colorTextPrimary">@color/black</color>
+    <color name="colorTextSecondary">@color/colorAccent</color>
+
+
+    <!--Common colors-->
+    <color name="bg_color">@color/white</color>
+
+</resources>

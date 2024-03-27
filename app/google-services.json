@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104903374581",
+    "firebase_url": "https://shreeji-mart-b3751-default-rtdb.firebaseio.com",
+    "project_id": "shreeji-mart-b3751",
+    "storage_bucket": "shreeji-mart-b3751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104903374581:android:2562d0e8c83b422873b7bc",
+        "android_client_info": {
+          "package_name": "com.shruuspace.shreejimart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzE0pkK1CI2pGQ7IQF1PNF4kg9eMOO8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

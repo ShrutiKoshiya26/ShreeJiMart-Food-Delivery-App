@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FE724C</color>
+    <color name="colorPrimaryDark">#858992</color>
+    <color name="colorAccent">#323643</color>
+    <color name="colorTextPrimary">@color/black</color>
+    <color name="colorTextSecondary">@color/colorAccent</color>
+
+    <!--app colors-->
+    <color name="gray">#9A9FAE</color>
+    <color name="gray80">#A8ACB9</color>
+    <color name="gray50">#C4C7D0</color>
+    <color name="gray20">#EBEBEB</color>
+
+    <color name="navyblue">#1A1D26</color>
+    <color name="navyblue80">#2A2F3D</color>
+    <color name="navyblue50">#4D5364</color>
+    <color name="navyblue20">#96969C</color>
+
+    <color name="yellow">#FFC529</color>
+    <color name="yellow80">#FFD050</color>
+    <color name="yellow50">#FFDF8B</color>
+    <color name="yellow20">#FFEFC3</color>
+
+    <color name="orange">#FE724C</color>
+    <color name="orange80">#FE8160</color>
+    <color name="orange50">#FEA58D</color>
+    <color name="orange20">#FED2C7</color>
+
+
+
+    <!--Common colors-->
+    <color name="bg_color">@color/white</color>
+
+
+</resources>
