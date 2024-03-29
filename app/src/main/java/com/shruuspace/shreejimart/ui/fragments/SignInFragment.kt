@@ -35,11 +35,10 @@ class SignInFragment : Fragment() {
 
         binding = FragmentSignInBinding.inflate(layoutInflater, container, false)
 
-
-
         setPhoneNumberValidation()
         sendOTPButtonClick()
         return binding.root
+
     }
 
     private fun sendOTPButtonClick() {

@@ -67,7 +67,7 @@ dependencies {
 
     //glide
     implementation  ("com.github.bumptech.glide:glide:4.16.0")
-    annotationProcessor  ("com.github.bumptech.glide:compiler:4.12.0")
+    annotationProcessor  ("com.github.bumptech.glide:compiler:4.13.2")
 
 
     // Coroutines
@@ -89,9 +89,9 @@ dependencies {
 
 
     //Firebase
-    implementation(platform("com.google.firebase:firebase-bom:32.7.4"))
+    implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
     implementation("com.google.firebase:firebase-auth")
-    implementation("com.google.firebase:firebase-analytics:21.5.1")
+    implementation("com.google.firebase:firebase-analytics:21.6.1")
     implementation("com.google.firebase:firebase-storage-ktx:20.3.0")
     implementation("com.google.firebase:firebase-database-ktx:20.3.1")
     implementation("com.google.firebase:firebase-messaging-ktx:23.4.1")

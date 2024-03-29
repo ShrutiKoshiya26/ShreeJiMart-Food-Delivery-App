@@ -5,6 +5,7 @@
     "project_id": "shreeji-mart-b3751",
     "storage_bucket": "shreeji-mart-b3751.appspot.com"
   },
+
   "client": [
     {
       "client_info": {
@@ -16,7 +17,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBVzE0pkK1CI2pGQ7IQF1PNF4kg9eMOO8Q"
+          "current_key": "AIzaSyCUT0SbhvHYBzi-zT9xfU6E07_8K-oCr9M"
         }
       ],
       "services": {
